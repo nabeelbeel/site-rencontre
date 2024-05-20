@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "recover",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
